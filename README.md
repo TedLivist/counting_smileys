@@ -7,4 +7,4 @@
 
 * ###### may have a nose - a valid nose is (-) or (~)
 
-* ###### must have a smiling mouth ()) or 'D'
+* ###### must have a smiling mouth ')' or 'D'
